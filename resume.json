@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Steven Edouard",
-    "label": "Developer Evangelist",
-    "picture": "https://scontent-b-sjc.xx.fbcdn.net/hphotos-prn1/t1.0-9/603953_10151522578258327_946466229_n.jpg ",
-    "email": "steven.edouard1@gmail.com",
-    "website": "http://stevenedouard.com",
-    "summary": "I am a Developer Evangelist for Microsoft. Every day I work to empower individuals to build awesome things. I eventually hope to pursue a role where I can have high impact on a product.",
+    "name": "Simon Foster",
+    "label": "Developer and IT Manager",
+    "picture": "https://avatars3.githubusercontent.com/u/381153?v=3&s=460 ",
+    "email": "funkysi1701@gmail.com",
+    "website": "https://funkysi1701.wordpress.com/",
+    "summary": "I am the IT Manager at Eurosafe UK. I manage everything IT related for the company. I am currently learning more and more about software development.",
     "location": {
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "York",
+      "countryCode": "UK",
+      "region": "North Yorkshire"
     },
     "profiles": [
       {
@@ -19,121 +19,92 @@
       },
       {
         "network": "Twitter",
-        "username": "sedouard",
-        "url": "http://twitter.com/sedouard"
+        "username": "funkysi1701",
+        "url": "http://twitter.com/funkysi1701"
       },
       {
         "network": "Github",
-        "username": "sedouard",
-        "url": "https://github.com/sedouard"
+        "username": "funkysi",
+        "url": "https://github.com/funkysi"
       }
     ]
   },
   "work": [
     {
-      "company": "Microsoft",
-      "position": "Developer Evangelist",
-      "website": "http://microsoft.com",
-      "startDate": "2014-03-04",
-      "summary": "Responsible for increasing adoption of Microsoft developer platforms.",
+      "company": "Clouds UK",
+      "position": "Developer",
+      "website": "http://www.cloudsuk.com",
+      "startDate": "2014-03-01",
+      "summary": "Work on developing the Clouds UK product.",
       "highlights": [
-        "Created many technical blog posts focusing on cloud and web development with Microsoft tech",
-        "Successfully won Techcrunch Disrupt Hardware Sponsor Award",
-        "Delivered dozens of original technical presentations from high school to pro developers",
-        "Went from 12 to >100 average unique daily website views",
-        "Authored 2 articles on MSDN magazine"
+         "Involved in developing new features for the product in consultation with the company directors. Deal with external consultants to ensure delivery of bug fixes and other problems. Ensure the smooth running of the companies Cloud computing products." 
+      ]
+    },
+	{
+      "company": "Eurosafe UK",
+      "position": "IT Manager",
+      "website": "http://www.eurosafeuk.co.uk",
+      "startDate": "2011-01-01",
+      "summary": "Manage the IT department for Eurosafe UK, responsible for the running of all the IT systems, and managing the workloads of the other IT staff members.",
+      "highlights": [
+         "Involved in network upgrade project in consultation with the company directors. Deal with Contractors and Consultants to ensure delivery of solutions to day to day problems. Ensure the smooth running of the companies Cloud computing products." 
       ]
     },
     {
-      "company": "Microsoft",
-      "position": "Software Development Engineer in Test, Common Language Runtime",
-      "website": "http://www.microsoft.com/net",
-      "startDate": "2012-01-22",
-      "endDate": "2014-03-04",
-      "summary": "Responsible for integration, dynamic testing and diagnostics of the Common Language Runtime.",
+      "company": "Eurosafe UK",
+      "position": "Systems Administrator",
+      "website": "http://www.eurosafeuk.co.uk",
+      "startDate": "2006-10-22",
+      "endDate": "2011-01-01",
+      "summary": "Worked as part of the IT support team, providing front line support to the company.",
       "highlights": [
-        "Created innovative test validations and infrastructure for Microsoft .NET Runtime debugger and diagnostics APIs consumed by Visual Studio ",
-        "Extended Visual Studio Test Explorer it to run complex end-to-end scenario tests",
-        "Assisted in customer on-boarding to .NET 4.5.1 by syncing with feature teams to diagnose issues",
-        "Drove product test results and collaborated with various feature teams across .NET to drive validation pass rates"
-      ]
-    },
-    {
-      "company": "Lockheed Martin Mission Systems",
-      "position": "Software Engineer Intern (4 summers)",
-      "website": "http://www.lockheedmartin.com",
-      "startDate": "2008-01-22",
-      "endDate": "2011-08-01",
-      "summary": "Obtained critical experience during college on software development for mission-critical scenarios.",
-      "highlights": [
-        "Designed system requirements for autonomous underwater vehicle ",
-        "Designed and implemented features on common software for use with multiple vehicles ",
-        "Performed software cost estimates",
-        "Implemented software features for sonar system displays"
+	"I also provide phone/email support to clients and contractors for a busy data sharing website. I am responsible for ensuring the weekly backups run, administering users and computers with active directory, maintaining the company websites, maintaining FTP, VPN and Exchange, converting Health and Safety files into HTML and all other IT related tasks."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "TEALS",
-      "position": "Teacher",
-      "website": "http://tealsk12.org",
-      "startDate": "2012-07-01",
-      "endDate": "2013-05-05",
-      "summary": "High school Teacher for an inner-city computer science class.",
+      "organization": "St Michael le Belfrey Church",
+      "position": "Projection Team Leader",
+      "website": "http://belfrey.org",
+      "startDate": "2013-07-01",
+      "summary": "I help coordinate the team of volunteers that help make the right things appear on the screen at the right time during St Mikes many church services.",
       "highlights": [
-        "Featured in the International New York Times"
+        "This involves getting volunteers availability, producing a rota, dealing with queries, helping with training, recruiting new members to the team, helping with technical issues and liaising with the technical manager and worship leader on improving things for the church."
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Florida",
-      "area": "Computer Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2007-08-01",
-      "endDate": "2011-12-01",
-      "gpa": "3.47"
-    }
-  ],
-  "awards": [
-    {
-      "name": "Visual Studio Team Excellence Light House Award",
-      "date": "2013-04-01",
-      "awarder": "Visual Studio Team - Microsoft",
-      "summary": "Given to member of the Visual Studio team who goes above and beyond their role."
+      "institution": "University of York",
+      "area": "Physics",
+      "studyType": "MPhys",
+      "startDate": "1999-10-01",
+      "endDate": "2003-06-01"
     }
   ],
   "skills": [
     {
       "name": "C# and .NET",
-      "level": "Master",
+      "level": "Intermediate",
       "keywords": [
         "C#"
       ]
     },
     {
-      "name": "Node.js",
+      "name": "SQL Server",
       "level": "Intermediate",
       "keywords": [
-        "javascript",
-        "express"
+        "sql"
       ]
     },
     {
-      "name": "Cloud Services",
+      "name": "Systems Administrator",
       "level": "Master",
       "keywords": [
-        "PaaS",
-        "Storage",
-        "APIs"
-      ]
-    },
-    {
-      "name": "iOS Application Development",
-      "level": "Intermediate",
-      "keywords": [
-        "Objective-C"
+        "Servers",
+        "IT Support",
+        "Exchange"
       ]
     }
   ],
